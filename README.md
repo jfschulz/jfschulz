@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently taking a data science course (Le Wagon) to improve my coding skills
-- 🌱 I’m interested in molecular biology, more specifically: microproteins, non-canonical open reading frames, protein translation, ribosome profililng, proteomics, genomics, cellular plasticity, senescence, cell reprogramming
+- 🌱 I’m interested in molecular biology, more specifically: microproteins, non-canonical open reading frames, short open reading frames, long noncoding RNAs, protein translation, ribosome profililng, proteomics, genomics, cellular plasticity, senescence, cell reprogramming
 - 😄 Pronouns: she
 
 <!--
